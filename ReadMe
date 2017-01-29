@@ -1,0 +1,22 @@
+Error:
+-----
+http://stackoverflow.com/questions/30412357/jasper-java-compile-noclassfound-exception
+
+Refer:
+------
+http://www.oracle.com/technetwork/java/jasper-reports-138777.html
+
+
+Lib jars:
+---------
+commons-beanutils-1.5
+commons-collections-2.1
+commons-digester-1.7
+commons-javaflow-20060411
+commons-logging-api-1.0.2
+groovy-all-2.1.6
+itext-1.4
+jasperreports-6.3.0
+jasperreports-javaflow-6.3.0
+jdt-compiler-3.1.1
+org.apache.commons.collections
